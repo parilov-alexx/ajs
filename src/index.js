@@ -5,7 +5,7 @@ function info() {
   return m;
 }
 
-export default {
+export default class Info {
   info
 };
   
