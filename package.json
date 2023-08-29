@@ -1,5 +1,5 @@
 {
-  "name": "ajs",
+  "name": "@parilov-alexx/ajs",
   "version": "1.0.0",
   "main": "dist/index.js",
   "publishConfig": {
@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "repository": {
-    "type": "module",
+    "type": "ajs",
     "url": "git+ssh://git@github.com/parilov-alexx/ajs.git"
   },
   "bugs": {
